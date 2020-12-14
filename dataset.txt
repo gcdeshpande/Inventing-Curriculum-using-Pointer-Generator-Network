@@ -1,0 +1,23 @@
+The ideal candidate will be responsible for designing, developing, testing, and debugging responsive web and mobile applications for the company. Using HTML and CSS, this candidate will be able to translate user and business needs into functional frontend design.
+
+Responsibilities
+
+    Designing & developing UI for web & mobile applications
+    Build reusable code and libraries for future use
+    Ability to convert comprehensive layout and wireframes into working HTML pages.
+    Accurately translate user and business needs into functional frontend code
+
+Qualifications
+
+    Familiarity using Scrum/Agile development methodologies
+    Fresher or less than 2 years of experience in frontend development
+    Good understanding of front-end technologies including HTML, CSS(flex), JavaScript, jQuery & Bootstrap framework
+
+Required Web Developer and Designer Candidates must have good knowledge of wordpress,HTML,PHP Skills:- Wordpress and HTML .Experience :- Fresher to 1 year
+
+Web Developer We are hiring full time web developer and looking for bright candidate to join team Random Soft Solution
+Skills: Html, CSS, Bootstrap, PHP, Jquery, WordPress, CI.
+Qualification: Graduation.
+Expreince: Fresher 2 Year.
+Salary: 1.8 to 2.6 lac INR/Annual
+Skills:Html, CSS, Bootstrap, PHP, Jquery, WordPress, CI. Qualification:Graduation. Expreince:Fresher 2 Year. Salary: 1.8 to 2.6 lac INR/Annual
